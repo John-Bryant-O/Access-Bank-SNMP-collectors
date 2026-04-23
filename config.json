@@ -1,0 +1,11 @@
+{
+  "poll_interval_seconds": 60,
+  "include_discovery_each_cycle": false,
+  "ups_devices": [
+    {
+      "device_id": "Wahab Folawiyo Unity Road",
+      "card_ip": "10.51.29.30",
+      "snmp_community": "public"
+    }
+  ]
+}
